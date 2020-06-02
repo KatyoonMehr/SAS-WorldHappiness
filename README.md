@@ -1,4 +1,5 @@
-# The World Happiness study is a landmark survey of the state of global happiness that ranks 156 countries by how happy
+# The World Happiness study 
+is a landmark survey of the state of global happiness that ranks 156 countries by how happy
 their citizens perceive themselves to be.
 There are 779 observation for the countries during the years 2015 to 2019. 
 Dependent variable is happiness_score which is a continuous variable and varies from 1 to 10.
